@@ -4,7 +4,7 @@ Commodore/Mitsumi KPQ-E99YC Keyboard Membrane
 This is a reproduction membrane for the Commodore/Mitsumi KPQ-E99YC keyboard. 
 
 Files included:
-- The project file is created usingEasyEDA Pro version 3.2.
+- The project file created using EasyEDA Pro version 3.2.
 - A scan of the original keyboard.
 - The gerber files.
 
